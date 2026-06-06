@@ -1,2 +1,21 @@
 # Prueba-de-funciones
 Pruebas para familiarizarme con la plataforma
+
+# PRUEBA TITULO GRANDE
+
+## PRUEBA TITULO MEDIANO
+
+**PRUEBA NEGRITAS**
+
+*PRUEBA CURSIVA*
+
+***PRUEBA NEGRITAS Y CURSIVA***
+
+- PRUEBA 1
+- PRUEBA 2
+- PRUEBA 3
+
+`PRUEBA CODIGO`
+
+```text
+PRUEBA BLOQUE DE CODIGO
