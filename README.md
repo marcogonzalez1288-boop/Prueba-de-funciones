@@ -1,6 +1,3 @@
-# Prueba-de-funciones
-Pruebas para familiarizarme con la plataforma
-
 # PRUEBA TITULO GRANDE
 
 ## PRUEBA TITULO MEDIANO
