@@ -15,7 +15,7 @@ reg [31:0] banco [0:31];
 
 initial 
 	begin
-		$readmemb("datos.txt",banco);
+        $readmemb("C:/Users/USUARIO/Documents/ArquitecturadeComputadoras/ROM/datos.txt", banco);
 	end
 
 always @*
